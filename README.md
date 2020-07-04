@@ -6,6 +6,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 1. Introduction to PyTorch
 2. Linear Regression
 3. Logistic Regression
+4. Feedforward Neural Network
 
 
 ## References
