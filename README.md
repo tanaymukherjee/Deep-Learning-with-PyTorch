@@ -4,9 +4,9 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 ## Table of content
 1. Introduction to PyTorch
-2. 
+2. Linear Regression
 
 
 ## References
-1. [Tutorial](https://pytorch.org/tutorials/recipes/recipes_index.html)
-2. License: [Official PyTorch GitHub Link](https://github.com/pytorch)
+1. PyTorch Learning: [Tutorial](https://pytorch.org/tutorials/recipes/recipes_index.html)
+2. Official License: [PyTorch GitHub Link](https://github.com/pytorch)
