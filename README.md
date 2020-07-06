@@ -8,7 +8,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 3. Logistic Regression
 4. Feedforward Neural Network
 5. Convolutional Neural Network
-6. Deep Residual Network (work in progress)
+6. Deep Residual Network
 
 
 ## References
