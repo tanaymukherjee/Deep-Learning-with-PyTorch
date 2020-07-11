@@ -9,6 +9,9 @@ PyTorch is an open source machine learning library based on the Torch library, u
 4. Feedforward Neural Network
 5. Convolutional Neural Network
 6. Deep Residual Network
+7. Recurrent Neural Network
+8. Bidirectional Recurrent Neural Network
+9. Language Model (RNN-LM)
 
 
 ## References
