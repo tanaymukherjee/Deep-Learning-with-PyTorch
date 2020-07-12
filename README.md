@@ -18,6 +18,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 - **Advanced**
 10. Generative Adversarial Networks
+11. Variational Auto-Encoder
 
 
 ## References
